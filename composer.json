@@ -24,10 +24,10 @@
         "issues": "https://github.com/RusticiSoftware/TinCanPHP/issues"
     },
     "require": {
-        "php": "~5.5 || ^7.0.3",
+        "php": "~5.5 || ^7.0.3 || ^8.0",
         "ext-openssl": "*",
         "namshi/jose": "^7.2.1",
-        "willdurand/negotiation": "^2.0"
+        "willdurand/negotiation": "^3.0"
     },
     "require-dev": {
         "phpdocumentor/phpdocumentor": "2.*",
